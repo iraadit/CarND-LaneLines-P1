@@ -3,6 +3,10 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+Preface
+---
+This is my resolution of the first Udacity Self-Driving Car NanoDegree project.
+
 Overview
 ---
 
